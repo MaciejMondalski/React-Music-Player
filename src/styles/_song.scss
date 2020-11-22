@@ -1,0 +1,29 @@
+.song-container {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5rem;
+
+  img {
+    width: 20%;
+    box-shadow: 2px 2px 50px rgb(0, 0, 0);
+  }
+
+  h2 {
+    padding: 3rem 1rem 1rem 1rem;
+  }
+
+  h3 {
+    font: 1rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .song-container {
+    img {
+      width: 60%;
+    }
+  }
+}
