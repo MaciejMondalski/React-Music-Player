@@ -1,5 +1,4 @@
-Try it out here!
-Netlify Link-----
+
 
 
 # Getting Started with Create React App
