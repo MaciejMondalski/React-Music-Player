@@ -1,4 +1,3 @@
-import { faSnowflake } from "@fortawesome/free-solid-svg-icons";
 
 const LibrarySong = ({
   song,

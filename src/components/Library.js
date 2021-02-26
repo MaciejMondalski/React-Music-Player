@@ -1,5 +1,4 @@
 import LibrarySong from "./LibrarySong";
-import { library } from "@fortawesome/fontawesome-svg-core";
 
 const Library = ({
   songs,
