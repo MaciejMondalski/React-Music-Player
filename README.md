@@ -1,5 +1,13 @@
-Netlify:
+Check it out live:
+https://cranky-hamilton-dd0b01.netlify.app/
 
+<p align="center">
+  <img src="./Reactify-pic1.png" width="1400" title="hover text">
+</p>
+<br>
+<p align="center">
+  <img src="./Reactify-pic2.png" width="1400" title="hover text">
+</p>
 
 # Getting Started with Create React App
 
